@@ -1,8 +1,8 @@
 const fs = require('fs')
 const path = require('path')
 const {
-  v03%3AeyJhbGciOiJkaXIiLCJraWQiOiJwcm9kdWN0aW9uOnRva2VuLXYzOjIwMjQtMTEtMDciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIn0..NXrGtdQPVR93fo7PG3wuAQ.oK-IZAihd71oZq8C4eMH55pSfWLurM22ioBXHzxcSTokv8YDvcTMNpHGtA_xH0SaqWnJCjjV-gLZbRuUlNL_yQRh7pd3URCvafWZB9A4YSYSABWlak4PKbQP17xf397EZfSRmPugGqILF5josr8E-sKXSxl9NrmizI3WlsPcWEVt0V8B7JI785OIni3XtaDow_PGoAy6sC4NRfBgXCOUnw3ZoL6hRax5hObzxtJi0Ea2s_6tyngtyuFrPVt0_Ij7Emidv6dajFu9j8LDfUsy08H9PvmARPHE9YoKiDFgGYqp5pYgeWcWg2hvEhfaJHJrsCpq1-DJOTRBuTVRcKKJovJFrYXOS5wYQEK0nVWTuew.6K7VurGs1scI_14XQL6Pb-en7nmaICp9jDR4TLIIFCM,
-  331066442e2580128c4be427271ec290,
+  NOTION_TOKEN
+  ,BLOG_INDEX_ID
 } = require('./src/lib/notion/server-constants')
 
 try {
