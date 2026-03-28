@@ -4,7 +4,7 @@ import Features from '../components/features'
 import sharedStyles from '../styles/shared.module.css'
 
 export default function Index() {
-  return (
+  return (/*
     <>
       <Header titlePre="Home" />
       <div className={sharedStyles.layout}>
@@ -63,5 +63,5 @@ export default function Index() {
         </div>
       </div>
     </>
-  )
+  */)
 }
