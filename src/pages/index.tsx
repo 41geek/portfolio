@@ -10,7 +10,7 @@ export default function Index() {
         <h1>My Notion Blog</h1>
         <h2>Welcome to my blog!</h2> 
         
-        {김온유 학생의 포트폴리오입니다 :)}
+        {/*김온유 학생의 포트폴리오입니다*/ :)}
         <div className="explanation">
           <p>노션으로 만드는 나만의 블로그입니다.</p>
         </div>
